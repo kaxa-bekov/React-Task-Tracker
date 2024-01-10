@@ -1,14 +1,14 @@
 {
   "tasks": [
     {
-      "id": "e3fc",
-      "text": "Buy a gift for Naza",
+      "id": "25f9",
+      "text": "Go to Walmart",
       "day": "2024-01-10",
       "reminder": true
     },
     {
-      "id": "0876",
-      "text": "get a window quote for Linda Neighbor",
+      "id": "c294",
+      "text": "Get a check for the windows from Linda the Neighbor",
       "day": "2024-01-10",
       "reminder": true
     }
