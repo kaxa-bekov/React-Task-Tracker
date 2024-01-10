@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Meet up with Matsenko",
+      "day": "today",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Repair the leaking pipe",
+      "day": "today",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Get Breakfast",
+      "day": "today",
+      "reminder": false
+    }
+  ]
+}
