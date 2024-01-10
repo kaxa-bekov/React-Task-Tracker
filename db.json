@@ -1,22 +1,16 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "text": "Meet up with Matsenko",
-      "day": "today",
+      "id": "e3fc",
+      "text": "Buy a gift for Naza",
+      "day": "2024-01-10",
       "reminder": true
     },
     {
-      "id": "2",
-      "text": "Repair the leaking pipe",
-      "day": "today",
+      "id": "0876",
+      "text": "get a window quote for Linda Neighbor",
+      "day": "2024-01-10",
       "reminder": true
-    },
-    {
-      "id": "3",
-      "text": "Get Breakfast",
-      "day": "today",
-      "reminder": false
     }
   ]
 }
